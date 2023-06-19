@@ -16,7 +16,7 @@ adaptability to new requirements.
 The container diagram below shows the high-level shape of the software architecture and how responsibilities are distributed across it. 
 It also shows the major technology choices and how the containers communicate with one another.
 
-![container_diagram.png](https://github.com/aldeeyar/innometrics-info/blob/main/images/container_diagram.png)
+![container_diagram.png](https://github.com/InnopolisUniversity/innometrics-info/blob/main/images/container_diagram.png)
 
 In order to provide a system with such capabilities, a backend based on microservices 
 has been developed. The backend consists of a number of specialised services, each responsible for a different part of 
@@ -74,7 +74,7 @@ GQM helps to estimate which methods to use in integration based on user goal.
 * [Dashboard](https://innometrics-12856.firebaseapp.com/#/login)
 
 * [Frontend](https://github.com/InnopolisUniversity/innometrics-dashboard)
-* * [Frontend - new - 2023](https://github.com/ease-ln/diplome/blob/main/README.md)
+* * [Frontend - new - 2023](https://github.com/InnopolisUniversity/Innometrics-frontend-2023/blob/main/README.md)
 
 * [API](https://github.com/InnopolisUniversity/innometrics-backend/blob/master/documentation.yaml)
   (Access readable format by pasting `documentation.yaml` data to https://editor.swagger.io)
@@ -83,6 +83,6 @@ GQM helps to estimate which methods to use in integration based on user goal.
 * [Here](https://docs.google.com/presentation/d/171IWzs-ZXBAmw7AlCU-7JUuHay5v3OS3rvK6loqNJUc/edit?usp=sharing) you can find DEMO for 2023
 
 ## Installation
-[Here](https://github.com/aldeeyar/innometrics-info/blob/main/instructions.md) you can read the instructions for local running, automated deployment, and sonarcloud analysis.
+[Here](https://github.com/InnopolisUniversity/innometrics-info/blob/main/instructions.md) you can read the instructions for local running, automated deployment, and sonarcloud analysis.
 
-[Here](https://github.com/ease-ln/diplome/blob/main/README.md) you can find the instructions for frontend.
+[Here](https://github.com/InnopolisUniversity/Innometrics-frontend-2023/blob/main/README.md) you can find the instructions for frontend.
